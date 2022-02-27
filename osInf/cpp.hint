@@ -1,0 +1,2 @@
+#define OSINF_API __declspec(dllexport)
+#define OSINF_API __declspec(dllimport)
